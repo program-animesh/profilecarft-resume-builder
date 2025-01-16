@@ -45,6 +45,10 @@ File a [bug report](https://github.com/sadanandpai/resume-builder/issues/new?ass
 
 [View all issues.](https://github.com/sadanandpai/resume-builder/issues)
 
+## Test Update
+
+This is a test update to demonstrate Git synchronization.
+
 ## Core Contributors
 
 <a href="https://github.com/sadanandpai"><img src="https://avatars.githubusercontent.com/u/12962887" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/gopal1996"><img src="https://avatars.githubusercontent.com/u/22369081" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/yakshaG"><img src="https://avatars.githubusercontent.com/u/26523871" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/siva-kannan3"><img src="https://avatars.githubusercontent.com/u/60533560" alt="sadanand" height="75px" width="75px" /></a>
