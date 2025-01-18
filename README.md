@@ -51,3 +51,8 @@ This project is private and all rights are reserved.
 ## Author
 
 ProFileCarft Team
+@ Animesh Gayen
+@ Sneha Maji
+@ Megha Orano
+@ Sanchatiya Bhunia
+@ Promathi Das
